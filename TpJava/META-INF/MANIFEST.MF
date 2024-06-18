@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: orgFiuba/tpjava/MainJavaFX
+Class-Path: target/classes/Climas target/classes/Estados target/classes/Item target/classes/Modificaciones target/classes/Opciones target/classes/Tipo target/classes/org/fiuba/algoritmos3 target/classes/Pokemones target/classes/view target/classes/view/ClimasView target/classes/view/EstadosView target/classes/view/ItemsView target/classes/view/ModificacionesView target/classes/view/PokemonesView

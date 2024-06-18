@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="344.0" prefWidth="533.0" spacing="20.0" styleClass="bodyMenu" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="orgFiuba.tpjava.Controller.JuegoController">
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+  </padding>
+    <Label fx:id="welcomeText" />
+    <VBox alignment="BOTTOM_CENTER" onMouseClicked="#onHelloButtonClick" onMousePressed="#onHelloButtonClick"
+          prefHeight="317.0" prefWidth="490.0">
+        <ImageView fitHeight="72.0" fitWidth="222.0" onMouseClicked="#onHelloButtonClick"
+                   onMousePressed="#onHelloButtonClick">
+            <viewport>
+                <Rectangle2D/>
+            </viewport>
+            <Image url="@StyleCss/titlee.gif"/>
+        </ImageView>
+    </VBox>
+   <stylesheets>
+      <URL value="@StyleCss/menu.css" />
+      <URL value="@StyleCss/titlee.css" />
+   </stylesheets>
+</VBox>

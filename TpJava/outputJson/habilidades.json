@@ -1,0 +1,397 @@
+[
+  {
+    "nombre" : "Chorro De Agua",
+    "tipoDeHabilidad": "ataque",
+    "id" : 37,
+    "cantidad": 25,
+    "tipo": "Agua",
+    "poder": 40
+  } ,
+  {
+    "nombre" : "Cabezazo",
+    "tipoDeHabilidad": "ataque",
+    "id" : 12,
+    "cantidad": 10,
+    "tipo": "Normal",
+    "poder": 130
+  } ,
+  {
+    "nombre" : "Defensa Ferrea",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 85,
+    "cantidad": 15,
+    "beneficio": true,
+    "tipoDeModificacion": "defensa",
+    "etapas": 2
+  } ,
+  {
+    "nombre" : "Danza De Lluvia",
+    "tipoDeHabilidad": "clima",
+    "id" : 24,
+    "cantidad": 5,
+    "tipoDeClima": "Lluvia"
+  } ,
+  {
+    "nombre" : "Tajo Aereo",
+    "tipoDeHabilidad": "ataque",
+    "id" : 68,
+    "cantidad": 15,
+    "tipo": "Volador",
+    "poder": 75
+  } ,
+  {
+    "nombre" : "Lanzallamas",
+    "tipoDeHabilidad": "ataque",
+    "id" : 51,
+    "cantidad": 15,
+    "tipo": "Fuego",
+    "poder": 90
+  } ,
+  {
+    "nombre" : "Garra Dragon",
+    "tipoDeHabilidad": "ataque",
+    "id" : 19,
+    "cantidad": 15,
+    "tipo": "Dragon",
+    "poder": 80
+  },
+  {
+    "nombre" : "Respiro",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 73,
+    "cantidad": 5,
+    "beneficio": true,
+    "tipoDeModificacion": "vida",
+    "etapas": 20
+  },
+  {
+    "nombre" : "Trueno",
+    "tipoDeHabilidad": "ataque",
+    "id" : 42,
+    "cantidad": 10,
+    "tipo": "Electrico",
+    "poder": 110
+  },
+  {
+    "nombre" : "Onda Trueno",
+    "tipoDeHabilidad": "estado",
+    "id" : 56,
+    "cantidad": 20,
+    "estado": "Paralizado"
+  } ,
+  {
+    "nombre" : "Tormenta Electrica",
+    "tipoDeHabilidad": "clima",
+    "id" : 88,
+    "cantidad": 5,
+    "tipoDeClima": "Tormenta Electrica"
+  },
+  {
+    "nombre" : "Agilidad",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 45,
+    "cantidad": 30,
+    "beneficio": true,
+    "tipoDeModificacion": "velocidad",
+    "etapas": 10
+  },
+  {
+    "nombre" : "Esfera Aural",
+    "tipoDeHabilidad": "ataque",
+    "id" : 61,
+    "cantidad": 20,
+    "tipo": "Lucha",
+    "poder": 80
+  },
+  {
+    "nombre" : "Puño Hielo",
+    "tipoDeHabilidad": "ataque",
+    "id" : 29,
+    "cantidad": 15,
+    "tipo": "Hielo",
+    "poder": 80
+  },
+  {
+    "nombre" : "Eco Metalico",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 77,
+    "cantidad": 40,
+    "beneficio": false,
+    "tipoDeModificacion": "defensa",
+    "etapas": -2
+  },
+  {
+    "nombre" : "Metalaser",
+    "tipoDeHabilidad": "ataque",
+    "id" : 46,
+    "cantidad": 5,
+    "tipo": "Normal",
+    "poder": 140
+  },
+  {
+    "nombre" : "Bola Sombra",
+    "tipoDeHabilidad": "ataque",
+    "id" : 14,
+    "cantidad": 15,
+    "tipo": "Fantasma",
+    "poder": 80
+  },
+  {
+    "nombre" : "Paz Mental",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 93,
+    "cantidad": 20,
+    "beneficio": true,
+    "tipoDeModificacion": "ataque",
+    "etapas": 2
+  },
+  {
+    "nombre" : "Pulso Umbrio",
+    "tipoDeHabilidad": "ataque",
+    "id" : 36,
+    "cantidad": 15,
+    "tipo": "Normal",
+    "poder": 80
+  },
+  {
+    "nombre" : "Terratemblor",
+    "tipoDeHabilidad": "ataque",
+    "id" : 58,
+    "cantidad": 20,
+    "tipo": "Tierra",
+    "poder": 60
+  },
+  {
+    "nombre" : "Veneno X",
+    "tipoDeHabilidad": "ataque",
+    "id" : 72,
+    "cantidad": 15,
+    "tipo": "Veneno",
+    "poder": 80
+  },
+  {
+    "nombre" : "Tijera X",
+    "tipoDeHabilidad": "ataque",
+    "id" : 10,
+    "cantidad": 15,
+    "tipo": "Bicho",
+    "poder": 80
+  },
+  {
+    "nombre" : "Acrobata",
+    "tipoDeHabilidad": "ataque",
+    "id" : 84,
+    "cantidad": 15,
+    "tipo": "Volador",
+    "poder": 110
+  },
+  {
+    "nombre" : "Toxico",
+    "tipoDeHabilidad": "estado",
+    "id" : 27,
+    "cantidad": 10,
+    "estado": "Envenenado"
+  } ,
+  {
+    "nombre" : "Psiquico",
+    "tipoDeHabilidad": "ataque",
+    "id" : 49,
+    "cantidad": 10,
+    "tipo": "Psiquico",
+    "poder": 90
+  },
+  {
+    "nombre" : "Recuperacion",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 63 ,
+    "cantidad": 5,
+    "beneficio": true,
+    "tipoDeModificacion": "vida",
+    "etapas": 50
+  },
+  {
+    "nombre" : "Maquinacion",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 18 ,
+    "cantidad": 20,
+    "beneficio": true,
+    "tipoDeModificacion": "ataque",
+    "etapas": 2
+  },
+  {
+    "nombre" : "Confuso",
+    "tipoDeHabilidad": "estado",
+    "id" : 81,
+    "cantidad": 5,
+    "estado": "Confundido"
+  } ,
+  {
+    "nombre" : "Mazazo",
+    "tipoDeHabilidad": "ataque",
+    "id" : 26,
+    "cantidad": 15,
+    "tipo": "Planta",
+    "poder": 120
+  },
+  {
+    "nombre" : "Sombra Vil",
+    "tipoDeHabilidad": "ataque",
+    "id" : 95,
+    "cantidad": 15,
+    "tipo": "Fantasma",
+    "poder": 80
+  },
+  {
+    "nombre" : "Hypnosis",
+    "tipoDeHabilidad": "estado",
+    "id" : 41,
+    "cantidad": 5,
+    "estado": "Dormido"
+  } ,
+  {
+    "nombre" : "Cara Susto",
+    "tipoDeHabilidad": "estado",
+    "id" : 78,
+    "cantidad": 5,
+    "estado": "Paralizado"
+  } ,
+  {
+    "nombre" : "Terremoto",
+    "tipoDeHabilidad": "ataque",
+    "id" : 60,
+    "cantidad": 10,
+    "tipo": "Tierra",
+    "poder": 100
+  },
+  {
+    "nombre" : "Roca Afilada",
+    "tipoDeHabilidad": "ataque",
+    "id" : 16,
+    "cantidad": 5,
+    "tipo": "Roca",
+    "poder": 100
+  },
+  {
+    "nombre" : "Tormenta De Arena",
+    "tipoDeHabilidad": "clima",
+    "id" : 32,
+    "cantidad": 5,
+    "tipoDeClima": "Tormenta De Arena"
+  } ,
+  {
+    "nombre" : "Ascenso Draco",
+    "tipoDeHabilidad": "ataque",
+    "id" : 53,
+    "cantidad": 5,
+    "tipo": "Dragon",
+    "poder": 120
+  },
+  {
+    "nombre" : "Poder Pasado",
+    "tipoDeHabilidad": "ataque",
+    "id" : 74,
+    "cantidad": 5,
+    "tipo": "Roca",
+    "poder": 60
+  },
+  {
+    "nombre" : "Triturar",
+    "tipoDeHabilidad": "ataque",
+    "id" : 23,
+    "cantidad": 15,
+    "tipo": "Normal",
+    "poder": 80
+  },
+  {
+    "nombre" : "Danza Dragon",
+    "tipoDeHabilidad": "estadistica",
+    "id" : 65,
+    "cantidad": 20,
+    "beneficio": true,
+    "tipoDeModificacion": "ataque",
+    "etapas": 2
+  },
+  {
+    "nombre" : "Hidrobomba",
+    "tipoDeHabilidad": "ataque",
+    "id" : 38,
+    "cantidad": 5,
+    "tipo": "Agua",
+    "poder": 110
+  },
+  {
+    "nombre" : "Picadura",
+    "tipoDeHabilidad": "ataque",
+    "id" : 89,
+    "cantidad": 20,
+    "tipo": "Bicho",
+    "poder": 70
+  },
+  {
+    "nombre" : "Ventisca",
+    "tipoDeHabilidad": "ataque",
+    "id" : 20,
+    "cantidad": 5,
+    "tipo": "Hielo",
+    "poder": 110
+  },
+  {
+    "nombre" : "Placaje",
+    "tipoDeHabilidad": "ataque",
+    "id" : 44,
+    "cantidad": 35,
+    "tipo": "Normal",
+    "poder": 40
+  },
+  {
+    "nombre" : "Mordisco",
+    "tipoDeHabilidad": "ataque",
+    "id" : 71,
+    "cantidad": 25,
+    "tipo": "Normal",
+    "poder": 60
+  },
+  {
+    "nombre" : "Ronquido",
+    "tipoDeHabilidad": "estado",
+    "id" : 31,
+    "cantidad": 5,
+    "estado": "Dormido"
+  } ,
+  {
+    "nombre" : "Ultimo Recurso",
+    "tipoDeHabilidad": "ataque",
+    "id" : 79,
+    "cantidad": 5,
+    "tipo": "Normal",
+    "poder": 110
+  } ,
+  {
+    "nombre" : "Dia Soleado",
+    "tipoDeHabilidad": "clima",
+    "id" : 100,
+    "cantidad": 5,
+    "tipoDeClima": "Soleado"
+  } ,
+  {
+    "nombre" : "Tormenta De Nieve",
+    "tipoDeHabilidad": "clima",
+    "id" : 101,
+    "cantidad": 5,
+    "tipoDeClima": "Tormenta de Nieve"
+  } ,
+  {
+    "nombre" : "Niebla",
+    "tipoDeHabilidad": "clima",
+    "id" : 102,
+    "cantidad": 5,
+    "tipoDeClima": "Niebla"
+  } ,
+  {
+    "nombre" : "Huracan",
+    "tipoDeHabilidad": "clima",
+    "id" : 103,
+    "cantidad": 5,
+    "tipoDeClima": "Huracan"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "nombre" : "Hiper Pocion",
+    "id": 0 ,
+    "descripcion": "Restaura 100 de vida",
+    "tipoDeModificacion": "vida"
+  },
+  {
+    "nombre" : "Pocion",
+    "id": 4,
+    "descripcion": "Restaura 25 de vida",
+    "tipoDeModificacion": "vida"
+  },
+  {
+    "nombre" : "Mega Pocion",
+    "id": 32,
+    "descripcion": "Restaura 50 de vida",
+    "tipoDeModificacion": "vida"
+  },
+  {
+    "nombre" : "Pocion MolestaAlumnos",
+    "id": 46,
+    "descripcion": "Restaura un tercio de la vida del Pokemon",
+    "tipoDeModificacion": "vida"
+  },
+  {
+    "nombre" : "AtaqueX",
+    "id": 57,
+    "descripcion": "Aumenta 10% el ataque",
+    "tipoDeModificacion": "ataque"
+  },
+  {
+    "nombre" : "DefensaX",
+    "id": 63,
+    "descripcion": "Aumenta 10% la defensa",
+    "tipoDeModificacion": "defensa"
+  },
+  {
+    "nombre" : "Revivir",
+    "id": 71,
+    "descripcion": "Revive al pokemon con toda su salud",
+    "tipoDeModificacion": "inhabilitado"
+  },
+  {
+    "nombre" : "Cura Todo",
+    "id": 88,
+    "descripcion": "Elimina los Estado del pokemon",
+    "tipoDeModificacion": "estado"
+  }
+]
+

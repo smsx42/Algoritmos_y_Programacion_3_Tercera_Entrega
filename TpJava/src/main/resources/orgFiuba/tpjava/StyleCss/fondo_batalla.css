@@ -1,0 +1,7 @@
+.bodyFondoSeleccionPokemon{
+    -fx-background-image: url('fondoCesped.png');
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 100% 100%;
+}
